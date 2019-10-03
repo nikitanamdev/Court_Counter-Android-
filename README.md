@@ -1,1 +1,2 @@
-# Court_Counter-Android-
+# Court_Counter_Android
+Android App
